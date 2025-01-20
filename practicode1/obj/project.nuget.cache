@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w16tFStlHEw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\practicode1\\practicode1\\cli.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\system.commandline\\2.0.0-beta4.22272.1\\system.commandline.2.0.0-beta4.22272.1.nupkg.sha512"
+  ],
+  "logs": []
+}
